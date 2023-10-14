@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the purpose of a for loop in programming?",
+    "choice1": "To declare variables",
+    "choice2": "To create conditions",
+    "choice3": "To repeat a block of code a specific number of times",
+    "choice4": "To define functions",
+    "answer": 3
+  },
+  {
+    "question": "In JavaScript, what is the 'DOM' an acronym for?",
+    "choice1": "Document Object Model",
+    "choice2": "Dynamic Object Management",
+    "choice3": "Data Object Mechanism",
+    "choice4": "Document Orientation Model",
+    "answer": 1
+  },
+  {
+    "question": "What does 'CSS' stand for in web development?",
+    "choice1": "Computer Style Sheet",
+    "choice2": "Cascading Style Sheet",
+    "choice3": "Code Style Sheet",
+    "choice4": "Creative Style Sheet",
+    "answer": 2
+  }
+]
